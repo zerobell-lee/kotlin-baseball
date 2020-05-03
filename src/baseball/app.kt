@@ -1,4 +1,4 @@
-package xyz.zerobell
+package baseball
 
 import java.lang.Exception
 import java.lang.Integer.parseInt
